@@ -1,4 +1,4 @@
-FROM golang:1.17
+FROM stevenli6186/chainguard-go:1.23.5
 
 WORKDIR /go/src/app
 
